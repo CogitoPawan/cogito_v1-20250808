@@ -1,0 +1,7 @@
+## API Endpoints
+
+### `GET /anomalies`
+
+Fetch the list of detected anomalies.
+
+- **Response:**

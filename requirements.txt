@@ -1,0 +1,11 @@
+Here's a complete implementation of the project "Anomaly Detection from Weekly Sales Data" following the specifications and requirements provided.
+
+## Project Structure
+
+## requirements.txt
+
+pip install -r requirements.txt
+
+python3 -m app.main
+
+uvicorn app.main:app --host 0.0.0.0 --port 8000

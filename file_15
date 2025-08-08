@@ -1,0 +1,2 @@
+4. **Set up the database:**
+    Update the `DATABASE_URL` environment variable in `app/config.py` with your PostgreSQL connection string. Then run the following commands to create the database tables:
